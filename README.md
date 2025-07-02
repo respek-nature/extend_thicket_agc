@@ -1,5 +1,7 @@
 # Extended aboveground carbon (AGC) mapping in thicket
-[A localised AGC model using WorldView-3 imagery](https://github.com/leftfield-geospatial/map-thicket-agc) is calibrated to coarser resolution Landsat 8 imagery and applied to the thicket biome (South Africa) using Google Earth Engine.  This is a concept demonstration - AGC accuracy is not known outside the [WorldView-3 model study area](https://github.com/leftfield-geospatial/map-thicket-agc#ground-truth).   
+[A localised AGC model using WorldView-3 imagery](https://github.com/leftfield-geospatial/map-thicket-agc) is calibrated to coarser resolution Landsat 8 imagery and applied to the thicket biome (South Africa) using Google Earth Engine.  This is a concept demonstration - AGC accuracy is not known outside the [WorldView-3 model study area](https://github.com/leftfield-geospatial/map-thicket-agc#ground-truth).
+
+This repository contains the scripts and data used to calibrate the Landsat based AGC model and generate an interactive map of thicket carbon stocks. A more detailed overview of the repository structure and usage instructions are provided in [docs/README.md](docs/README.md).
 
 
 ## Getting Started
